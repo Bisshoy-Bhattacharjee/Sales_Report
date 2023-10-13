@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697225384 source:c:\users\bissh\documents\fall 2023\eecs 348\sales_report\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
